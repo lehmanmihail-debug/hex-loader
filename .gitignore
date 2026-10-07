@@ -1,0 +1,21 @@
+# Бинарники
+hex-loader
+hex-loader.exe
+hex-loader-*
+*.exe
+*.app
+*.tar.xz
+
+# Сборка
+dist/
+build/
+*.o
+*.a
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
